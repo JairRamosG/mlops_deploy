@@ -5,10 +5,11 @@ sqlalchemy
 aiosqlite
 pandas
 joblib
-scikit-learn == 1.4.2
+scikit-learn 
 python-multipart
 
 pymysql
 pyngrok
 pytz
 cryptography
+psycopg2-binary
